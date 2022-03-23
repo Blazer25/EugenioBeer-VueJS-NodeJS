@@ -17,6 +17,7 @@ This project was developed with the following technologies:
 - Cors
 - Axios
 - Express
+- MongoDB / Mongoose
 
 <hr/>
 
